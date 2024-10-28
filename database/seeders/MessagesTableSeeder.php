@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use App\Models\Message;
 
-class MessagesTableSeeder extends Seeder
+class messagesTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
